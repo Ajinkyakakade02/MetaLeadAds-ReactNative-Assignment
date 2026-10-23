@@ -31,8 +31,4 @@ Make sure the app is configured to connect to your running backend.
 - The backend uses polling to check for new leads and Socket.IO to update the mobile app.
 - Lead data is stored in memory and is cleared when the backend restarts.
 
-### Demo
-- [Live Demo](https://www.loom.com/share/59500a2802494345b1a25fd19b99c24b)
-- [Code Walkthrough](https://www.loom.com/share/1e147e85c5ee44e18214062bc16fb7cf)
-
 **GitHub:** [Ajinkyakakade02](https://github.com/Ajinkyakakade02)
